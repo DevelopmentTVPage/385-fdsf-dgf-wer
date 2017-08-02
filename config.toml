@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "qersdf"
+baseURL = "https:\/\/fdsf.dgf.wer"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
